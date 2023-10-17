@@ -61,7 +61,6 @@ main = do
     print frequencyList
     putStrLn upperString
     print removedList
-    
     putStrLn "First Component:"
     print firstComponents
     putStrLn "Second Component:"
